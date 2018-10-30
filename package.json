@@ -1,0 +1,23 @@
+{
+  "name": "x0",
+  "version": "1.0.0",
+  "description": "NodeJS Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xz70/x0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xz70/x0.git/issues"
+  },
+  "homepage": "https://github.com/xz70/x0.git#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
